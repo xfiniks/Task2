@@ -1,0 +1,12 @@
+Filled container:
+Container contains 10 elements.
+0: It is Tree: Age = 10885. Name = vryByIJvqx. Task result: 0.300000
+1: It is Tree: Age = 3097. Name = YEPWdnDXBA. Task result: 0.300000
+2: It is Shrub: Flowering month = 9. Name = BxJNFIXuJh. Task result: 0.200000
+3: It is Shrub: Flowering month = 7. Name = PPhtxrPgwQ. Task result: 0.000000
+4: It is Shrub: Flowering month = 0. Name = EZFKUyNOHT. Task result: 0.400000
+5: It is Tree: Age = 64540. Name = nJNOfIEgXE. Task result: 0.400000
+6: It is Flower: type = GARDEN. Name = SQPuvOMNzT. Task result: 0.200000
+7: It is Shrub: Flowering month = 3. Name = HZHVNMxmfz. Task result: 0.000000
+8: It is Shrub: Flowering month = 6. Name = uPHMBlurkK. Task result: 0.200000
+9: It is Tree: Age = 40882. Name = KEjDRvQpJP. Task result: 0.100000

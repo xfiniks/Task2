@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/xfiniks/Task_2/plant.h
+cstdio
+-
+
+/Users/xfiniks/Task_2/rnd.h
+cstdlib
+-
+
+/Users/xfiniks/Task_2/tree.cpp
+tree.h
+/Users/xfiniks/Task_2/tree.h
+rnd.h
+/Users/xfiniks/Task_2/rnd.h
+
+/Users/xfiniks/Task_2/tree.h
+cstdio
+-
+plant.h
+/Users/xfiniks/Task_2/plant.h
+

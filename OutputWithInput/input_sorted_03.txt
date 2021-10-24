@@ -1,0 +1,5 @@
+Sorted container:
+Container contains 3 elements.
+0: It is Shrub: Flowering month = 1. Name = Dron. Task result: 0.250000
+1: It is Tree: Age = 3000. Name = Android. Task result: 0.428571
+2: It is Flower: type = WILD. Name = Andruha. Task result: 0.428571

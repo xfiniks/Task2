@@ -1,0 +1,3 @@
+/Users/xfiniks/Task_2/cmake-build-asan/CMakeFiles/rebuild_cache.dir
+/Users/xfiniks/Task_2/cmake-build-asan/CMakeFiles/edit_cache.dir
+/Users/xfiniks/Task_2/cmake-build-asan/CMakeFiles/Task_2.dir

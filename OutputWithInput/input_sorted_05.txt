@@ -1,0 +1,9 @@
+Sorted container:
+Container contains 7 elements.
+0: It is Tree: Age = 987467. Name = Drin. Task result: 0.250000
+1: It is Shrub: Flowering month = 1. Name = Dron. Task result: 0.250000
+2: It is Flower: type = DOMESTIC. Name = Andruhon. Task result: 0.375000
+3: It is Flower: type = GARDEN. Name = SinonimiKonchilis. Task result: 0.411765
+4: It is Flower: type = WILD. Name = Andruha. Task result: 0.428571
+5: It is Tree: Age = 30. Name = Android. Task result: 0.428571
+6: It is Shrub: Flowering month = 5. Name = Andreyka. Task result: 0.500000

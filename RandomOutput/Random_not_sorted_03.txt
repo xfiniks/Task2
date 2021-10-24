@@ -1,0 +1,102 @@
+Filled container:
+Container contains 100 elements.
+0: It is Tree: Age = 86488. Name = rQgTNUtXDL. Task result: 0.100000
+1: It is Tree: Age = 57221. Name = FWzjSaybVs. Task result: 0.200000
+2: It is Shrub: Flowering month = 10. Name = mSOkWSQDQi. Task result: 0.200000
+3: It is Flower: type = DOMESTIC. Name = hGhFLFfXJj. Task result: 0.000000
+4: It is Flower: type = DOMESTIC. Name = lmcwJigBgr. Task result: 0.100000
+5: It is Shrub: Flowering month = 9. Name = GAszWyPJaH. Task result: 0.300000
+6: It is Flower: type = WILD. Name = BhrZUSIewp. Task result: 0.300000
+7: It is Flower: type = WILD. Name = eqgRuHSMgV. Task result: 0.200000
+8: It is Tree: Age = 41109. Name = UrQpJzoHNB. Task result: 0.200000
+9: It is Flower: type = GARDEN. Name = qdFyPSztBn. Task result: 0.100000
+10: It is Flower: type = GARDEN. Name = DIMiHLRrKl. Task result: 0.200000
+11: It is Tree: Age = 16731. Name = nVxlUxAoPl. Task result: 0.300000
+12: It is Flower: type = GARDEN. Name = qRUggrVPmT. Task result: 0.100000
+13: It is Flower: type = DOMESTIC. Name = pGFFgIlxnU. Task result: 0.200000
+14: It is Shrub: Flowering month = 9. Name = NabPOPFQcD. Task result: 0.200000
+15: It is Flower: type = DOMESTIC. Name = foaQVktakl. Task result: 0.300000
+16: It is Tree: Age = 83002. Name = biTaqQfVev. Task result: 0.300000
+17: It is Tree: Age = 12019. Name = vghlDVAUMK. Task result: 0.200000
+18: It is Flower: type = GARDEN. Name = QtWYyIfwQm. Task result: 0.300000
+19: It is Flower: type = GARDEN. Name = ufXFGkSomc. Task result: 0.200000
+20: It is Tree: Age = 44632. Name = PrQjFfZJCI. Task result: 0.100000
+21: It is Tree: Age = 30290. Name = TMraqHCmVo. Task result: 0.200000
+22: It is Shrub: Flowering month = 11. Name = YrbQqgbwXg. Task result: 0.100000
+23: It is Shrub: Flowering month = 7. Name = CzAHtJZdzV. Task result: 0.100000
+24: It is Shrub: Flowering month = 6. Name = NhliREwCfJ. Task result: 0.200000
+25: It is Tree: Age = 15443. Name = mfGiejYuOC. Task result: 0.500000
+26: It is Flower: type = GARDEN. Name = JIKkcWVSFr. Task result: 0.100000
+27: It is Tree: Age = 37390. Name = SJZeCGgiby. Task result: 0.300000
+28: It is Tree: Age = 3725. Name = iOdgnhuYmI. Task result: 0.500000
+29: It is Flower: type = WILD. Name = oEvtCHMsnn. Task result: 0.200000
+30: It is Flower: type = WILD. Name = eiWqvyuAHq. Task result: 0.500000
+31: It is Flower: type = DOMESTIC. Name = uVaorfadwH. Task result: 0.400000
+32: It is Flower: type = DOMESTIC. Name = cUkXByYLqq. Task result: 0.300000
+33: It is Shrub: Flowering month = 1. Name = UrsHAQJYBg. Task result: 0.300000
+34: It is Tree: Age = 11989. Name = ZjMhQBZJej. Task result: 0.100000
+35: It is Tree: Age = 51074. Name = PlTOpnUwFU. Task result: 0.300000
+36: It is Tree: Age = 14013. Name = JWaQYqNaXc. Task result: 0.300000
+37: It is Flower: type = WILD. Name = YnxjDNriBZ. Task result: 0.200000
+38: It is Tree: Age = 89881. Name = JtPiLgjiWt. Task result: 0.200000
+39: It is Tree: Age = 43039. Name = eqLDvXIjaD. Task result: 0.300000
+40: It is Tree: Age = 37553. Name = GiGttZGAzI. Task result: 0.300000
+41: It is Flower: type = DOMESTIC. Name = zafYfVclIn. Task result: 0.300000
+42: It is Tree: Age = 84549. Name = JXCRfxvyxH. Task result: 0.100000
+43: It is Flower: type = DOMESTIC. Name = aCdLcvuMFs. Task result: 0.200000
+44: It is Tree: Age = 92311. Name = hpfGTaeLeg. Task result: 0.300000
+45: It is Tree: Age = 15890. Name = TOPwzVyjnt. Task result: 0.200000
+46: It is Tree: Age = 19234. Name = TJIBcUDQRh. Task result: 0.200000
+47: It is Shrub: Flowering month = 1. Name = sELHHuJLeV. Task result: 0.300000
+48: It is Shrub: Flowering month = 3. Name = YzJikQJqcg. Task result: 0.200000
+49: It is Tree: Age = 46009. Name = RYPRmuZEDm. Task result: 0.300000
+50: It is Shrub: Flowering month = 2. Name = zgbNgGVpKh. Task result: 0.000000
+51: It is Flower: type = WILD. Name = oiiSzlHxyZ. Task result: 0.400000
+52: It is Shrub: Flowering month = 0. Name = zOspqErISH. Task result: 0.300000
+53: It is Shrub: Flowering month = 7. Name = BvLlQNlcPH. Task result: 0.000000
+54: It is Shrub: Flowering month = 4. Name = FhacymyOYT. Task result: 0.500000
+55: It is Shrub: Flowering month = 2. Name = IPGdWsfheT. Task result: 0.200000
+56: It is Flower: type = GARDEN. Name = lXbgbFjcHq. Task result: 0.000000
+57: It is Tree: Age = 90322. Name = HjxOAlKGhN. Task result: 0.200000
+58: It is Tree: Age = 31910. Name = aDALgzpBzt. Task result: 0.200000
+59: It is Shrub: Flowering month = 6. Name = HDmnlSEQYN. Task result: 0.200000
+60: It is Tree: Age = 33564. Name = EbmttwfqmY. Task result: 0.200000
+61: It is Tree: Age = 22078. Name = TskQgNxueO. Task result: 0.300000
+62: It is Tree: Age = 76416. Name = TdoimAkFKd. Task result: 0.300000
+63: It is Tree: Age = 25618. Name = xLyQcbAvcB. Task result: 0.200000
+64: It is Shrub: Flowering month = 8. Name = kuLRgRDVtz. Task result: 0.100000
+65: It is Tree: Age = 90918. Name = eMiERFfcGw. Task result: 0.300000
+66: It is Shrub: Flowering month = 7. Name = PtlecieSFB. Task result: 0.300000
+67: It is Flower: type = WILD. Name = TsjKkzNmGq. Task result: 0.000000
+68: It is Tree: Age = 8966. Name = ReMfhCYXWK. Task result: 0.200000
+69: It is Shrub: Flowering month = 0. Name = aOCksEpsvS. Task result: 0.300000
+70: It is Tree: Age = 9290. Name = qwssSgFihl. Task result: 0.100000
+71: It is Flower: type = DOMESTIC. Name = UQfijaaHKI. Task result: 0.500000
+72: It is Tree: Age = 7610. Name = rtmvFNLYsN. Task result: 0.100000
+73: It is Flower: type = DOMESTIC. Name = RNIIlPFujO. Task result: 0.400000
+74: It is Tree: Age = 71613. Name = PctsYYdnBC. Task result: 0.200000
+75: It is Tree: Age = 19388. Name = XwbyFuKOSP. Task result: 0.300000
+76: It is Tree: Age = 51280. Name = ESdJEPdscO. Task result: 0.300000
+77: It is Shrub: Flowering month = 11. Name = bfFjpxyBzb. Task result: 0.100000
+78: It is Flower: type = GARDEN. Name = zaNxUtZPHp. Task result: 0.200000
+79: It is Flower: type = WILD. Name = UsVNeWfcYC. Task result: 0.300000
+80: It is Tree: Age = 3837. Name = VpJYanjPBU. Task result: 0.300000
+81: It is Tree: Age = 59955. Name = RwwomojNhv. Task result: 0.200000
+82: It is Shrub: Flowering month = 5. Name = UinLGphXcv. Task result: 0.200000
+83: It is Shrub: Flowering month = 0. Name = xdaUfXKYdm. Task result: 0.300000
+84: It is Tree: Age = 91744. Name = HDcPAgdNwR. Task result: 0.100000
+85: It is Shrub: Flowering month = 10. Name = SmFCSyGkAt. Task result: 0.200000
+86: It is Shrub: Flowering month = 11. Name = jPQwLJeJLt. Task result: 0.100000
+87: It is Tree: Age = 38355. Name = BVMKSqLyHk. Task result: 0.100000
+88: It is Shrub: Flowering month = 9. Name = boeMlBWQij. Task result: 0.300000
+89: It is Shrub: Flowering month = 11. Name = OrQzJvsfsI. Task result: 0.200000
+90: It is Flower: type = GARDEN. Name = pVQhrnuqjP. Task result: 0.100000
+91: It is Flower: type = GARDEN. Name = AGIQMpkrJT. Task result: 0.200000
+92: It is Flower: type = GARDEN. Name = OoiiptAoiH. Task result: 0.700000
+93: It is Shrub: Flowering month = 10. Name = oHDsikAtBG. Task result: 0.300000
+94: It is Shrub: Flowering month = 9. Name = pfbpRpjRAL. Task result: 0.100000
+95: It is Tree: Age = 36462. Name = EFUYWxAkYT. Task result: 0.500000
+96: It is Flower: type = GARDEN. Name = sqwFhfOozx. Task result: 0.200000
+97: It is Tree: Age = 1700. Name = fZWxidtPmC. Task result: 0.100000
+98: It is Flower: type = WILD. Name = HKoZBMQMQB. Task result: 0.100000
+99: It is Tree: Age = 16134. Name = TEhmITNjRn. Task result: 0.200000

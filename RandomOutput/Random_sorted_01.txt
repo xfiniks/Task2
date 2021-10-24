@@ -1,0 +1,3 @@
+Sorted container:
+Container contains 1 elements.
+0: It is Shrub: Flowering month = 2. Name = mMwZgRJcUZ. Task result: 0.100000
